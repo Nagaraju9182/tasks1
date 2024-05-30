@@ -1,0 +1,343 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+  .container{
+    padding-top: 150px;
+    
+  }
+
+
+h1{
+    text-align: center;
+    font-size: 100px;
+}
+
+.container p{
+    text-align: center;
+}
+.bot{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    column-gap: 10px;
+    }
+    .box{
+        display: flex;
+        column-gap: 10px;
+        flex-wrap: wrap;
+        row-gap: 10px;
+        background-color: black;
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+   
+    .b1{
+        width: 300px;
+        height:300px;
+        background-color: white;
+        padding: 50px;
+    }
+    .b1 h2{
+        font-size: 40px;
+    }
+    .b1 p{
+        text-align: left;
+        
+    }
+    .b2{
+        width: 150px;
+        height: 300px;
+        background-color: white;
+       padding: 50px;
+        
+    }
+    .b2 h2{
+        font-size: 30px;
+    }
+    .b2 p{
+        text-align: left;
+    }
+    .b3{
+        width: 400px;
+        height:300px;
+        background-color: white;
+        padding: 50px;
+    }
+
+    .b3 h2{
+        font-size: 40px;
+    }
+    .b3 p{
+        text-align: left;
+    }
+    .b4{
+        width: 400px;
+        height:300px;
+        background-color: white;
+
+        padding: 50px;
+        margin-left: 30px;
+        
+    }
+    .b4 h2{
+        font-size: 30px;
+    }
+    .b5{
+        width: 150px;
+        height:300px;
+        background-color: white;
+        padding: 50px;
+    }
+    .b5 h2{
+        font-size: 40px;
+    }
+    .b5 p{
+        padding-top: 100px;
+        background-color: black;
+        color: white;
+    } 
+           .b6{
+        width: 300px;
+        height:300px;
+        background-color:white;
+        padding: 50px;
+    }
+    .b6 h2{
+        font-size: 40px;
+        padding-top: 50px;
+    }
+    .b6 p{
+        padding-top: 150px;
+        background-color: black;
+        color: white;
+    }
+    .b7{
+    width: 500px;
+        height:80x;
+        background-color: black;
+        padding: 50px;
+        color: white;
+    }
+    .b7 h2{
+        padding-left: 50px;
+        font-size: 30px;
+    }
+    .b8{
+    width: 500px;
+        height:80x;
+        background-color: black;
+        padding: 50px;
+        color: white;
+    }
+    .b8 p{
+        padding-left: 200px;
+        color: white;
+    }
+    .b9{
+        padding-left: 250px;
+        column-gap: 10px;
+        padding-top: 50px;
+    }
+    .tab{
+        padding-top: 100px;
+    }
+    .tab h1{
+        font-size: 70px;
+    }
+    .tab1{
+        display: flex;
+        flex-wrap: wrap;
+        column-gap: 20px;
+        padding-left: 60px;
+        padding-top: 20px;
+    }
+    .b10{
+        width: 250px;
+        height:300px;
+        background-color:white;
+        padding: 50px;
+    }
+    .b11{
+        width: 250px;
+        height:300px;
+        background-color: white;
+        padding: 50px;
+    }
+    .b12{
+        width: 250px;
+        height:300px;
+        background-color:white;
+        padding: 50px;
+    }
+    .b10 h2{
+        text-align: center;
+    }
+    .b10 h2 p{
+        padding-top: 20px;
+    }
+    .b11 h2{
+        text-align: center;
+    }
+    .b12 h2{
+        text-align: center;
+    }
+    .tab2{
+        padding-top: 50px;
+    }
+    
+
+    .tab2 h1{
+        font-size: 50px;
+    }
+    .tab3{
+        display: flex;
+        column-gap: 30px;
+        row-gap: 30px;
+        margin-left: 50px;
+        flex-wrap: wrap;   
+    }
+      .b13{
+        width: 250px;
+        height:150px;
+        background-color:white;
+        padding: 50px;
+    }
+    .b14{
+        width: 250px;
+        height:150px;
+        background-color: white;
+        padding: 50px;
+    }
+     .b14 p{
+        padding-top: 100px;
+        background-color: black;
+        color: white;
+        
+
+     }
+          .b15{
+
+        width: 250px;
+        height:150px;
+        background-color: white;
+        padding: 50px;
+    }
+    .b16{
+       
+      width: 250px;
+        height:150px;
+        background-color:white;
+        padding: 50px;
+    }
+    .b17{
+        width: 250px;
+        height:150px;
+        background-color:white;
+        padding: 50px;
+    }
+    .b18{
+        width: 250px;
+        height:150px;
+        background-color:white;
+        padding: 50px;
+    }
+    .b19{
+        width: 250px;
+        height:150px;
+        background-color:white;
+        padding: 50px;
+    }
+    .b20{
+        width: 250px;
+        height:150px;
+        background-color:white;
+        padding: 50px;
+    }
+    .b21{
+        width: 250px;
+        height:150px;
+        background-color:white;
+        padding: 50px;
+    }
+    .page{
+        color: white;
+    }
+    .tab4{
+
+        padding-top: 100px;
+        background-color: black;
+    
+    }
+    
+
+    .tab4 h1{
+        font-size: 50px;
+    }
+    .tab5{
+        display: flex;
+        column-gap:30px ;
+        row-gap: 20px;
+        padding-left:100px;
+        flex-wrap: wrap;
+    }
+    .b22{
+        width: 500px;
+        height:300px;
+        background-color:black;
+        padding: 50px;
+        color: white;
+    }
+    .b23{
+        width: 300px;
+        height:300px;
+        background-color:black;
+        padding: 50px;
+        color: white;
+    }
+    
+    .b23 p{
+        padding-top: 20px;
+        text-align: left;
+        color: white;
+    }
+    
+    .b24{
+        width: 230px;
+        height:200px;
+        background-color:black;
+        padding: 50px;
+        color: white;
+    }
+    
+    .b25{
+        width: 230px;
+        height:200px;
+        background-color:black;
+        padding: 50px;
+        color: white;
+    }
+    
+        .b25 p{
+            padding-top: 20px;
+            text-align: left;
+            color:black;
+            background-color: white;
+        }
+        
+    
+    .b26{
+        width: 230px;
+        height:200px;
+        background-color:black;
+        padding: 50px;
+        color: white;
+    }
+    
+    
+    .b26 button{
+        margin-left: 200px;
+        background-color: orangered;
+    }
+    
+    
